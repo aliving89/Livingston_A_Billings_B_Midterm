@@ -14,5 +14,4 @@ This is our debate for our in class midterm assesment. We will debate Pro-Sports
 ## Credits
 
 Dev Brody Billings
-
-## License
+Dev Andrew Livingston
