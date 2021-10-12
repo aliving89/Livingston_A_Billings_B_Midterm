@@ -1,6 +1,6 @@
 # Livingston_A_Billings_b_Midterm
 
-This is our debate for our in class midterm assesment. We will debate Pro-Sports(bb) and Against-Sports(al)
+This is our debate for our in class midterm assesment. We will debate Xbox over Playstation
 
 ## Contributing
 
